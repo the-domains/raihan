@@ -1,0 +1,28 @@
+name: raihan
+favicon: null
+layout_spectrum: 0.6508753860834986
+typography_spectrum: 0.45153503958135843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8581042652949691
+  lightness: 0.0640704371035099
+  saturation: 0.7417911409866065
+  rhythmicContrast: 0.760631549404934
+purpose: []
